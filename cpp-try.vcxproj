@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ConstClassInstance.cpp" />
+    <ClCompile Include="ReferenceToMember.cpp" />
     <ClCompile Include="Source\Alignment.cpp" />
   </ItemGroup>
   <ItemGroup>
