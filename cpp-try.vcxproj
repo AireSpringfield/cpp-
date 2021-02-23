@@ -22,6 +22,7 @@
     <ClCompile Include="ConstClassInstance.cpp" />
     <ClCompile Include="IfFloat.cpp" />
     <ClCompile Include="ReferenceToMember.cpp" />
+    <ClCompile Include="ConstArray.cpp" />
     <ClCompile Include="Source\Alignment.cpp" />
   </ItemGroup>
   <ItemGroup>
