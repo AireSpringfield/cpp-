@@ -19,14 +19,16 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ConstClassInstance.cpp" />
-    <ClCompile Include="IfFloat.cpp" />
-    <ClCompile Include="ReferenceToMember.cpp" />
-    <ClCompile Include="ConstArray.cpp" />
+    <ClCompile Include="SmartPtr.cpp" />
     <ClCompile Include="Source\Alignment.cpp" />
+    <ClCompile Include="Source\ConstArray.cpp" />
+    <ClCompile Include="Source\ConstClassInstance.cpp" />
+    <ClCompile Include="Source\IfFloat.cpp" />
+    <ClCompile Include="Source\NotOnUndefinedMacro.cpp" />
+    <ClCompile Include="Source\ReferenceToMember.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Common.h" />
+    <ClInclude Include="Source\Common.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
