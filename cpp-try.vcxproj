@@ -19,7 +19,6 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="SizeofStruct.cpp" />
     <ClCompile Include="Source\Alignment.cpp" />
     <ClCompile Include="Source\CommaMacro.cpp" />
     <ClCompile Include="Source\ConstArray.cpp" />
@@ -27,6 +26,7 @@
     <ClCompile Include="Source\IfFloat.cpp" />
     <ClCompile Include="Source\NotOnUndefinedMacro.cpp" />
     <ClCompile Include="Source\ReferenceToMember.cpp" />
+    <ClCompile Include="Source\SizeofVector.cpp" />
     <ClCompile Include="Source\SmartPtr.cpp" />
     <ClCompile Include="Source\StaticAssert.cpp" />
   </ItemGroup>
