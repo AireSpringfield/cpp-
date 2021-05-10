@@ -1,6 +1,8 @@
 #include <iostream>
 #include <memory>
 
+
+/*
 int main()
 {
 	auto sharedPtr = std::shared_ptr<int>(new int(1));
@@ -14,4 +16,4 @@ int main()
 
 	system("pause");
 }
-
+*/

@@ -33,7 +33,16 @@
     <ClCompile Include="Source\ReferenceToMember.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SmartPtr.cpp">
+    <ClCompile Include="Source\SmartPtr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\CommaMacro.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\StaticAssert.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SizeofStruct.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
