@@ -23,13 +23,13 @@ struct Vector3fBool
 	bool b;
 };
 
-int main()
-{
-	std::cout << sizeof(Vector3f) << ' ' << alignof(Vector3f) << '\n';
-	std::cout << sizeof(FloatVector3f) << ' ' << alignof(FloatVector3f) << '\n';
-	std::cout << sizeof(BoolVector3f) << ' ' << alignof(BoolVector3f) << '\n';
-	std::cout << sizeof(Vector3fBool) << ' ' << alignof(Vector3fBool) << '\n';
-	std::cout << sizeof(bool);
-
-	system("pause");
-}
+//int main()
+//{
+//	std::cout << sizeof(Vector3f) << ' ' << alignof(Vector3f) << '\n';
+//	std::cout << sizeof(FloatVector3f) << ' ' << alignof(FloatVector3f) << '\n';
+//	std::cout << sizeof(BoolVector3f) << ' ' << alignof(BoolVector3f) << '\n';
+//	std::cout << sizeof(Vector3fBool) << ' ' << alignof(Vector3fBool) << '\n';
+//	std::cout << sizeof(bool);
+//
+//	system("pause");
+//}
